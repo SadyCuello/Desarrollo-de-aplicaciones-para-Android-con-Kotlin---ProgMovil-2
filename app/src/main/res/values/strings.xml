@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Sadia Cuello</string>
+    <string name="yellow">Yellow Star</string>
+    <string name="bio"> Hola, mi nombre es Sadia Cuello.
+        \n\n soy una niña muy alegre y educada, a sus 8 años le gusta ayudar a los demás y ser muy servicial.
+         \n\n Es de tez blanca, con una larga cabellera negra muy brillante y lisa que le encanta cuidar todos los días,
+         \n\n sus ojos brillan todo el tiempo, es como si siempre estuviera feliz.
+         \n\n Ayuda a sus papás en los labores del hogar y le encanta ir al cine y a la playa.
+         \n\n Los libros son su adicción y cuando sea grande quiere ser astronauta y viajar por la luna y el espacio.
+
+         \n\n soy una niña muy alegre y educada, a sus 8 años le gusta ayudar a los demás y ser muy servicial.
+         \n\n Es de tez blanca, con una larga cabellera negra muy brillante y lisa que le encanta cuidar todos los días,
+         \n\n sus ojos brillan todo el tiempo, es como si siempre estuviera feliz.
+         \n\n Ayuda a sus papás en los labores del hogar y le encanta ir al cine y a la playa.
+         \n\n Los libros son su adicción y cuando sea grande quiere ser astronauta y viajar por la luna y el espacio.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="Done">Done</string>
+</resources>
